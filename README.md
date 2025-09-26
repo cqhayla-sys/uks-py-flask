@@ -12,6 +12,7 @@ Aplikasi ini adalah aplikasi berbasis web yang akan digunakan untuk memberikan i
 7.Mengedit Data Rekam Medis
 8.Menampilkan Data Rekam Medis
 9.Notifikasi & Pengingat
+10.Manajemen Obat
 
 # yang memeriksa
 1.Login/Logut
@@ -21,6 +22,7 @@ Aplikasi ini adalah aplikasi berbasis web yang akan digunakan untuk memberikan i
 5.Mengedit Data Pemeriksaan  
 6.Melihat Riwayat Pemeriksaan Pasien  
 7.Mencetak/Laporan Pemeriksaan  
+
 
 # pasien
 1.Login/Logout  
