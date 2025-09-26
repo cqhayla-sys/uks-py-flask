@@ -11,7 +11,7 @@ Aplikasi ini adalah aplikasi berbasis web yang akan digunakan untuk memberikan i
 6.Menambahkan Data Rekam Medis
 7.Mengedit Data Rekam Medis
 8.Menampilkan Data Rekam Medis
-9.Notifikasi & Pengingat
+9.Notifikasi & Pengingat (obat habis/kadardewasa)
 10.Manajemen Obat
 11.Login/Logut
 12.Pencatat Kunjungan
